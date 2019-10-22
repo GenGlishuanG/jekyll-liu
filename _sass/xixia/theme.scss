@@ -3,10 +3,11 @@ html {
 }
 
 body {
-    background-image: url(/jekyll-xixia/assets/images/canvas_bg.jpg);
+    background-image: url('canvas_bg.jpg');
     padding-top: 60px;
     height:100%;
 }
+
 
 .wrap {
     position:relative;
@@ -83,8 +84,14 @@ body {
 }
 
 /* set the link style */
+
+.article h2{
+    margin-top: 6px;
+    margin-bottom:3px;
+}
 .article a {
-	color: $article-a-color;
+    color: $article-a-color;
+    font-size: 21px;
 }
 
 .article a:hover {

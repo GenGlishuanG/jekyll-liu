@@ -1,5 +1,14 @@
-- url: "http://xixia.info"
-  title: "Xixia"
+- url: "https://github.com/GenGlishuanG"
+  title: "我的GitHub"
 
-- url: "https://github.com/zxixia/jekyll-xixia"
-  title: "Jekyll-Xixia"  
+- url: "https://leetcode-cn.com/"
+  title: "LeetCode"  
+
+- url: "https://www.python.org/"
+  title: "Python"  
+
+- url: "https://zcxiao74.github.io"
+  title: "张冲宵"  
+
+- url: "https://mpierrem.github.io/"
+  title: "刘思源"  
